@@ -1,0 +1,20 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Vini Eckert",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "tsx --test"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "tsx": "^4.22.4",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.5.0"
+  }
+}
